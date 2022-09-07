@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Flutter developer specialist with experience in Mobile, Web and Desktop applications. 
+
 <!--
 **mateusfmfm/mateusfmfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
