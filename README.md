@@ -1,7 +1,7 @@
 ### Hi there 👋
 Flutter developer specialist with experience in Mobile, Web and Desktop applications. Software Engineering student; Focused in Clean Architecture and BLoC Pattern; React for web development, Golang for backend development and fullstack development;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
+![mateusfmfm's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
 
 <!--
 **mateusfmfm/mateusfmfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
