@@ -1,5 +1,5 @@
 ### Hi there 👋
-Flutter developer specialist with experience in Mobile, Web and Desktop applications. Software Engineering student; Focused in Clean Architecture and BLoC Pattern; React for web development, Golang for backend development and fullstack development;
+Flutter developer specialist with experience in Mobile, Web and Desktop applications. Software Engineering student; Focused in Clean Architecture and BLoC Pattern; I also work with web development using React, Angular, Django and Go; 
 
 <div id="badges"> 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
