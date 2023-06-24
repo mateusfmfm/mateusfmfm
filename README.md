@@ -43,8 +43,17 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 
 <div><img src="https://img.shields.io/badge/DJANGO%20TDD-092E20?style=for-the-badge&logo=django&logoColor=green" alt="DTDD"/></div>
 
-<div><a href="https://github.com/mateusfmfm/flutter.BLoC-architecture">
-  <img src="https://img.shields.io/badge/FLUTTER%20BLoC%20ARCHITECTURE-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterBLoC"/></a></div>
+<div>
+  <a href="https://github.com/mateusfmfm/flutter.BLoC-architecture">
+  <img src="https://img.shields.io/badge/FLUTTER%20BLoC%20ARCHITECTURE-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterBLoC"/>
+</a>
+</div>
+
+<div>
+  <a href="https://github.com/mateusfmfm/flutter.mobile-Set-The-Theme">
+  <img src="https://img.shields.io/badge/FLUTTER%20WHITE%20LABEL-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterBLoC"/>
+</a>
+</div>
 
 </div>
 
