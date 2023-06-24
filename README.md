@@ -33,7 +33,7 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 </div>
 
 <div> 
-<a href="https://github.com/mateusfmfm/the-arcade-store"> <img src="https://img.shields.io/badge/THE%20ARCADE%20STORE-8A2BE2?&logo=flutter&style=for-the-badge" alt="TAS" /> </a>
+<a href="https://github.com/mateusfmfm/the-arcade-store"> <img src="https://img.shields.io/badge/THE%20ARCADE%20STORE-5600FF?&logo=flutter&style=for-the-badge" alt="TAS" /> </a>
 </div>
 
 ### Cases of study:
