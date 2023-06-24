@@ -17,8 +17,6 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 </div>
 
 
-
-
 ### Contact with me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/mateusfmfm/">
@@ -30,15 +28,18 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 ### Fullstack projects:
 <div id="projects"> 
 <a href="https://github.com/mateusfmfm/the-arcade-store"> <img src="https://img.shields.io/badge/THE%20ARCADE%20STORE-8A2BE2?&logo=flutter&logo=go&style=for-the-badge" alt="TAS" /> </a>
-<span>A full web and mobile arcade store builded with Flutter and Go, following the best practices as possible. In the frontend, I builded this project with BLoC Pattern and the same codebase for the web and mobile. In the backend, I followed good practices of microservices with Go.</span>
 </div>
 
 ### Cases of study:
-<div id="COF"> 
+<div id="GOCA"> 
 <a href="#"> 
-<img src="https://img.shields.io/badge/GO%20CLEAN%20ARCHITECTURE-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
+<img src="https://img.shields.io/badge/GO%20CLEAN%20ARCHITECTURE%20AND%20GRAPHQL-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
 </a>
 
 <img src="https://img.shields.io/badge/DJANGO%20TDD-092E20?style=for-the-badge&logo=django&logoColor=green" alt="DTDD"/>
+
+<a href="https://github.com/mateusfmfm/flutter.BLoC-architecture">
+  <img src="https://img.shields.io/badge/FLUTTER%20BLoC%20ARCHITECTURE-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterBLoC"/></a>
+
 </div>
 
