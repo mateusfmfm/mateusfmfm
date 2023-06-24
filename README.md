@@ -33,3 +33,10 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 <span>A full web and mobile arcade store builded with Flutter and Go, following the best practices as possible. In the frontend, I builded this project with BLoC Pattern and the same codebase for the web and mobile. In the backend, I followed good practices of microservices with Go.</span>
 </div>
 
+## Cases of study:
+<div id="COF"> 
+<a href="#"> 
+<img src="https://img.shields.io/badge/GO%20CLEAN%20ARCHITECTURE-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/> "
+</a>
+</div>
+
