@@ -28,7 +28,7 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 ### Projects:
 <div> 
 <a href="https://github.com/mateusfmfm/my-personal-site"> 
-<img src="https://img.shields.io/badge/MY%20PERSONAL%20SITE-20232A?&logo=react&style=for-the-badge" alt="mySite"/>
+<img src="https://img.shields.io/badge/MY%20PERSONAL%20SITE-E0115F?&logo=react&style=for-the-badge" alt="mySite"/>
 </a>
 </div>
 
