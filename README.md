@@ -27,7 +27,7 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 </div>
 
-### Cool projects:
+### Fullstack projects:
 <div id="projects"> 
 <a href="https://github.com/mateusfmfm/the-arcade-store"> <img src="https://img.shields.io/badge/THE%20ARCADE%20STORE-8A2BE2?style=for-the-badge" alt="TAS" /> </a>
 <span>A full web and mobile arcade store builded with Flutter and Go, following the best practices as possible. In the frontend, I builded this project with BLoC Pattern and the same codebase for the web and mobile. In the backend, I followed good practices of microservices with Go.</span>
