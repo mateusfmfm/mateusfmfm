@@ -27,3 +27,9 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 </div>
 
+### Cool projects:
+<div id="projects"> 
+<img src="https://img.shields.io/badge/THE%20ARCADE%20STORE-8A2BE2" alt="TAS" /> 
+<span>A full web and mobile arcade store builded with Flutter and Go.</span>
+</div>
+
