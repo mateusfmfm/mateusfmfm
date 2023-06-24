@@ -24,7 +24,7 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 </div>
 
-### Projects:
+### Fullstack Projects:
 <div> 
 <a href="https://github.com/mateusfmfm/my-personal-site"> 
 <img src="https://img.shields.io/badge/MY%20PERSONAL%20SITE-E0115F?&logo=react&style=for-the-badge" alt="mySite"/>
@@ -33,6 +33,10 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 
 <div> 
 <a href="https://github.com/mateusfmfm/the-arcade-store"> <img src="https://img.shields.io/badge/THE%20ARCADE%20STORE-5600FF?&logo=flutter&style=for-the-badge" alt="TAS" /> </a>
+</div>
+
+<div> 
+<a href="https://github.com/mateusfmfm/the-arcade-store"> <img src="https://img.shields.io/badge/WHERES%20THE%20PLANE-FF5800?&logo=react&style=for-the-badge" alt="TAS" /> </a>
 </div>
 
 ### Cases of study:
