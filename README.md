@@ -59,5 +59,8 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 </a>
 </div>
 
+<div>
+  <img src="https://img.shields.io/badge/REACT%20MONOREPO/MULTIPACKAGE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+</div>
 </div>
 
