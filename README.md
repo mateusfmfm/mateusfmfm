@@ -50,11 +50,6 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
   <img src="https://img.shields.io/badge/FLUTTER%20WHITE%20LABEL-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterBLoC"/>
 </a>
 </div>
-
-<div id="GOCA"> 
-<div><a href="#"> 
-<img src="https://img.shields.io/badge/GO%20CLEAN%20ARCHITECTURE%20AND%20GRAPHQL-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
-</a></div>
   
 <div>
   <img src="https://img.shields.io/badge/REACT%20MONOREPO/MULTIPACKAGE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
@@ -63,6 +58,13 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 <div>
   <img src="https://img.shields.io/badge/REACT%20CLEAN%20ARCHITECTURE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
 </div>
+
+
+
+<div id="GOCA"> 
+<div><a href="#"> 
+<img src="https://img.shields.io/badge/GO%20CLEAN%20ARCHITECTURE%20AND%20GRAPHQL-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
+</a></div>
 
 <div><img src="https://img.shields.io/badge/DJANGO%20TDD-092E20?style=for-the-badge&logo=django&logoColor=green" alt="DTDD"/></div>
 
