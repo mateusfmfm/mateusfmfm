@@ -43,6 +43,9 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 <div>
   <img src="https://img.shields.io/badge/REACT%20MONOREPO/MULTIPACKAGE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
 </div>
+<div>
+  <img src="https://img.shields.io/badge/REACT%20CLEAN%20ARCHITECTURE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+</div>
 <div id="GOCA"> 
 <div><a href="#"> 
 <img src="https://img.shields.io/badge/GO%20CLEAN%20ARCHITECTURE%20AND%20GRAPHQL-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
