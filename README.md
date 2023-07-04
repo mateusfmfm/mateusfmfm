@@ -59,7 +59,10 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
   <img src="https://img.shields.io/badge/REACT%20CLEAN%20ARCHITECTURE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
 </div>
 
-
+<div id="GOMS"> 
+<div><a href="https://github.com/mateusfmfm/go-microservices"> 
+<img src="https://img.shields.io/badge/GO%20MICROSERVICES-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
+</a></div>
 
 <div id="GOCA"> 
 <div><a href="#"> 
