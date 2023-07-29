@@ -69,7 +69,7 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 <img src="https://img.shields.io/badge/GO%20CLEAN%20ARCHITECTURE%20AND%20GRAPHQL-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
 </a></div>
 
-<div><img src="https://img.shields.io/badge/DJANGO%20TDD-092E20?style=for-the-badge&logo=django&logoColor=green" alt="DTDD"/></div>
+<div><a href="https://github.com/mateusfmfm/django-tdd-recipes"><img src="https://img.shields.io/badge/DJANGO%20TDD-092E20?style=for-the-badge&logo=django&logoColor=green" alt="DTDD"/><a/> </div>
 
 
 
