@@ -60,6 +60,11 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 </div>
 
 <div id="GOMS"> 
+<div><a href="https://github.com/mateusfmfm/go-job-seeker"> 
+<img src="https://img.shields.io/badge/GO%20JOB-SEEKER-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
+</a></div>
+
+<div id="GOMS"> 
 <div><a href="https://github.com/mateusfmfm/go-microservices"> 
 <img src="https://img.shields.io/badge/GO%20MICROSERVICES-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
 </a></div>
