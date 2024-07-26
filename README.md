@@ -56,7 +56,9 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/REACT%20TDD%20AND%20CLEAN%20ARCHITECTURE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  <a href="https://github.com/mateusfmfm/react_tdd_clean_architecture">
+    <img src="https://img.shields.io/badge/REACT%20TDD%20AND%20CLEAN%20ARCHITECTURE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  </a>
 </div>
 
 <div id="GOMS"> 
