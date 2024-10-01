@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Mateus 
-About my work: I'm a Software Engineer and Flutter specialist developer with experience in Web, Mobile and Desktop applications. Here you can find some cool projects and cases of study. I also work with web development with React, Angular, Django and Go. Im a enthusiast of BLoC Pattern and Clean Architecture. 
+About my work: I'm a Software Engineer and Flutter specialist developer with experience in Web, Mobile and Desktop applications. Here you can find some cool projects and cases of study. I also work with web development with React, Angular,  and Go. Im a enthusiast of BLoC Pattern and Clean Architecture. 
 About me: Physics, Computer Science and Software engineer MBA graduated, I never stoped to study new technologies.
 
 <div id="badges"> 
@@ -7,7 +7,6 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge"/>  
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django Badge"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres Badge"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "MongoDB Badge" />
 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
@@ -75,8 +74,6 @@ About me: Physics, Computer Science and Software engineer MBA graduated, I never
 <div><a href="#"> 
 <img src="https://img.shields.io/badge/GO%20CLEAN%20ARCHITECTURE%20AND%20GRAPHQL-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
 </a></div>
-
-<div><a href="https://github.com/mateusfmfm/django-tdd-recipes"><img src="https://img.shields.io/badge/DJANGO%20TDD-092E20?style=for-the-badge&logo=django&logoColor=green" alt="DTDD"/><a/> </div>
 
 
 
