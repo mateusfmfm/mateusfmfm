@@ -1,6 +1,4 @@
 ### Hi there 👋 I'm Mateus 
-About my work: I'm a Software Engineer and Flutter specialist developer with experience in Web, Mobile and Desktop applications. Here you can find some cool projects and cases of study. I also work with web development with React, Angular,  and Go. Im a enthusiast of BLoC Pattern and Clean Architecture. 
-About me: Physics, Computer Science and Software engineer MBA graduated, I never stoped to study new technologies.
 
 <div id="badges"> 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
