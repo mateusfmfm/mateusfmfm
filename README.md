@@ -34,7 +34,7 @@
 </div>
 
 <div> 
-<a href="https://github.com/mateusfmfm/go-flight-tracker"> <img src="https://img.shields.io/badge/FLIGHT%20TRACKER%20API-FF5800?&logo=go&style=for-the-badge" alt="TAS" /> </a>
+<a href="https://github.com/mateusfmfm/go-flight-tracker"> <img src="https://img.shields.io/badge/FLIGHT%20TRACKER%20API-00ADD8?&logo=go&style=for-the-badge" alt="TAS" /> </a>
 </div>
 
 ### Cases of study:<div>
