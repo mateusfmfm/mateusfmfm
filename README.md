@@ -23,10 +23,11 @@
 </div>
 
 ### Repositories:
-<div> 
-<a href="https://github.com/mateusfmfm/my-personal-site"> 
-<img src="https://img.shields.io/badge/MY%20PERSONAL%20SITE-E0115F?&logo=react&style=for-the-badge" alt="mySite"/>
-</a>
+
+<div id="ME">
+  <a href="https://github.com/mateusfmfm/me">
+    <img src="https://img.shields.io/badge/MY%20PERSONAL%20SITE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  </a>
 </div>
 
 <div id="FLUTTERWHITELABEL"> 
