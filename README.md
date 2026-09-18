@@ -35,7 +35,7 @@
 
 <div id="GOFLIGHTTRACKER"> 
 <div><a href="https://github.com/mateusfmfm/go-microservices"> 
-<img src="https://img.shields.io/badge/GO%20MICROSERVICES-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
+<img src="https://img.shields.io/badge/FLIGHT%20TRACKER%20API-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
 </a></div>
 
 ### Cases of study:<div>
