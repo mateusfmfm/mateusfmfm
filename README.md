@@ -38,6 +38,12 @@
 <img src="https://img.shields.io/badge/FLIGHT%20TRACKER%20API-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
 </a></div>
 
+<div id="REACTFLIGHTTRACKER">
+  <a href="https://github.com/mateusfmfm/react-flight-tracker">
+    <img src="https://img.shields.io/badge/FLIGHT%20TRACKER%20CLIENT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  </a>
+</div>
+
 ### Cases of study:<div>
   <a href="https://github.com/mateusfmfm/flutter.BLoC-architecture">
   <img src="https://img.shields.io/badge/FLUTTER%20BLoC%20ARCHITECTURE-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterBLoC"/>
