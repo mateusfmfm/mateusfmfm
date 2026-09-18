@@ -33,9 +33,10 @@
 <a href="https://github.com/mateusfmfm/the-arcade-store"> <img src="https://img.shields.io/badge/THE%20ARCADE%20STORE-5600FF?&logo=flutter&style=for-the-badge" alt="TAS" /> </a>
 </div>
 
-<div> 
-<a href="https://github.com/mateusfmfm/go-flight-tracker"> <img src="https://img.shields.io/badge/FLIGHT%20TRACKER%20API-00ADD8?&logo=go&style=for-the-badge" alt="TAS" /> </a>
-</div>
+<div id="GOMS"> 
+<div><a href="https://github.com/mateusfmfm/go-microservices"> 
+<img src="https://img.shields.io/badge/FLIGHT%20-TRACKER%20-API-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
+</a></div>
 
 ### Cases of study:<div>
   <a href="https://github.com/mateusfmfm/flutter.BLoC-architecture">
