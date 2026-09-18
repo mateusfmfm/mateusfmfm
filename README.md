@@ -61,7 +61,7 @@
 
 <div id="GOMS"> 
 <div><a href="https://github.com/mateusfmfm/go-job-seeker"> 
-<img src="https://img.shields.io/badge/GO%20JOB%20SEEKER-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
+<img src="https://img.shields.io/badge/GO%20JOB%20SEEKER-00ADD8?style=for-the-badge&logo=go-00ADD8&-logoColor=white" alt="GOCA"/>
 </a></div>
 
 <div id="GOMS"> 
