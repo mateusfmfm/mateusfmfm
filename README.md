@@ -29,11 +29,10 @@
 </a>
 </div>
 
-<div id="FLUTTERWHITELABEL>
-  <a href="https://github.com/mateusfmfm/flutter.mobile-Set-The-Theme">
-  <img src="https://img.shields.io/badge/FLUTTER%20WHITE%20LABEL-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterBLoC"/>
-</a>
-</div>
+<div id="FLUTTERWHITELABEL"> 
+<div><a href="https://github.com/mateusfmfm/flutter.mobile-Set-The-Theme"> 
+<img src="https://img.shields.io/badge/FLUTTER%20WHITE%20LABEL-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FLUTTERWHITELABEL"/>
+</a></div>
 
 <div id="GOFLIGHTTRACKER"> 
 <div><a href="https://github.com/mateusfmfm/go-flight-tracker"> 
