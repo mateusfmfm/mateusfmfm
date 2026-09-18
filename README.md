@@ -29,8 +29,10 @@
 </a>
 </div>
 
-<div> 
-<a href="https://github.com/mateusfmfm/the-arcade-store"> <img src="https://img.shields.io/badge/THE%20ARCADE%20STORE-5600FF?&logo=flutter&style=for-the-badge" alt="TAS" /> </a>
+<div id="FLUTTERWHITELABEL>
+  <a href="https://github.com/mateusfmfm/flutter.mobile-Set-The-Theme">
+  <img src="https://img.shields.io/badge/FLUTTER%20WHITE%20LABEL-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterBLoC"/>
+</a>
 </div>
 
 <div id="GOFLIGHTTRACKER"> 
@@ -44,42 +46,6 @@
   </a>
 </div>
 
-### Cases of study:<div>
-  <a href="https://github.com/mateusfmfm/flutter.BLoC-architecture">
-  <img src="https://img.shields.io/badge/FLUTTER%20BLoC%20ARCHITECTURE-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterBLoC"/>
-</a>
-</div>
-
-<div>
-  <a href="https://github.com/mateusfmfm/flutter.mobile-Set-The-Theme">
-  <img src="https://img.shields.io/badge/FLUTTER%20WHITE%20LABEL-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterBLoC"/>
-</a>
-</div>
-  
-<div>
-  <img src="https://img.shields.io/badge/REACT%20MONOREPO/MULTIPACKAGE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
-</div>
-
-<div>
-  <a href="https://github.com/mateusfmfm/react_tdd_clean_architecture">
-    <img src="https://img.shields.io/badge/REACT%20TDD%20AND%20CLEAN%20ARCHITECTURE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
-  </a>
-</div>
-
-<div id="GOMS"> 
-<div><a href="https://github.com/mateusfmfm/go-job-seeker"> 
-<img src="https://img.shields.io/badge/GO%20JOB%20SEEKER-00ADD8?style=for-the-badge&logo=go-00ADD8&-logoColor=white" alt="GOCA"/>
-</a></div>
-
-<div id="GOMS"> 
-<div><a href="https://github.com/mateusfmfm/go-microservices"> 
-<img src="https://img.shields.io/badge/GO%20MICROSERVICES-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
-</a></div>
-
-<div id="GOCA"> 
-<div><a href="#"> 
-<img src="https://img.shields.io/badge/GO%20CLEAN%20ARCHITECTURE%20AND%20GRAPHQL-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
-</a></div>
 
 
 
