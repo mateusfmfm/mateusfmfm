@@ -33,9 +33,9 @@
 <a href="https://github.com/mateusfmfm/the-arcade-store"> <img src="https://img.shields.io/badge/THE%20ARCADE%20STORE-5600FF?&logo=flutter&style=for-the-badge" alt="TAS" /> </a>
 </div>
 
-<div id="GOMS"> 
+<div id="GOFLIGHTTRACKER"> 
 <div><a href="https://github.com/mateusfmfm/go-microservices"> 
-<img src="https://img.shields.io/badge/FLIGHT%20-TRACKER%20-API-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
+<img src="https://img.shields.io/badge/GO%20MICROSERVICES-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GOCA"/>
 </a></div>
 
 ### Cases of study:<div>
