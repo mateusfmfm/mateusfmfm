@@ -46,6 +46,12 @@
   </a>
 </div>
 
+<div id="ANGULARFLIGHTTRACKER">
+  <a href="https://github.com/mateusfmfm/angular-flight-tracker">
+    <img src="https://img.shields.io/badge/FLIGHT%20TRACKER%20CLIENT-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="React Badge"/>
+  </a>
+</div>
+
 
 
 
